@@ -7,7 +7,7 @@ Built because I couldn't find a single extension that did this one simple thing 
 Exile Element lets you hide any element on any webpage. Hover over the thing, press Ctrl+Shift+X, and it’s gone — hidden with display: none. Need it back? Hit Alt+Z to undo. That’s it.
 
 No right-click menus. No weird UI. No “pro” features. Just a hotkey and some peace.
-(Want different keys? Head to chrome://extensions/shortcuts to customize them.)
+(Want different keys? Head to [chrome://extensions/shortcuts](chrome://extensions/shortcuts) to customize them.)
 
 What it does:
 
